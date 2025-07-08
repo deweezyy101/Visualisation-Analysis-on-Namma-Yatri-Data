@@ -26,3 +26,22 @@ Raw Data Management (Excel):
   - Fare breakdowns
   - Search and quote data
   - Location-based metrics
+
+# How to Set Up and Use the Dashboard
+ 1. Database Setup:
+    - Run the provided SQL scripts in your preferred database management system to create necessary tables and extract relevant data. This step is crucial for populating the dashboard with accurate, up-to-date information.
+ 2. Power BI Dashboard:
+
+     - Open the Power BI project to interact with the pre-built dashboard. Ensure the data connections to your database and Excel files are properly configured.
+     - The dashboard allows for dynamic exploration of metrics, with filters and interactive visuals enabling deeper dives into specific aspects of the service.
+  3. Data Updating:
+
+     - Regular updates to the Excel data or rerunning SQL queries will refresh the Power BI dashboard, ensuring it reflects the most current information.
+       
+# Usage and Insights
+This dashboard is designed to be used by data analysts, business managers, and other stakeholders within the Namma Yatri ecosystem. It provides actionable insights into how the service is performing, where improvements can be made, and what trends are emerging in customer behavior and service delivery.
+
+Whether you are tracking overall performance, analyzing specific trips, or comparing data across different locations, this tool is designed to be both comprehensive and user-friendly.
+
+# About Namma Yatri
+ Namma Yatri is dedicated to providing an efficient and reliable transport service across various Indian cities. By utilizing this dashboard, stakeholders can ensure that the service is continuously optimized to meet user expectations and operational goals
