@@ -7,7 +7,7 @@ Namma Yatri is a community initiative aimed at providing a seamless auto and cab
 # Key Components:
 1. Data Visualization (Power BI):
 
-- Purpose: The data dashboard is designed to give an at-a-glance view of crucial metrics, including the number of completed trips, search activities, fare estimates, driver earnings, and conversion rates.
+- # Purpose: The data dashboard is designed to give an at-a-glance view of crucial metrics, including the number of completed trips, search activities, fare estimates, driver earnings, and conversion rates.
 - Visuals:
  + Trips vs Duration: Visualizes the relationship between the number of trips and their duration.
  + Fare vs Duration: Shows how the fare correlates with trip duration.
