@@ -13,14 +13,16 @@ Namma Yatri is a community initiative aimed at providing a seamless auto and cab
  + Fare vs Duration: Shows how the fare correlates with trip duration.
  + Distance vs Duration: Displays the relationship between distance traveled and trip duration.
  + Trip Fare by Location: Compares total fare earnings across different locations.
- + Data Extraction and Manipulation (SQL):
 
-Purpose: SQL scripts are used to extract, transform, and load data into a structured format that can be utilized by the Power BI dashboard. These scripts handle data from various sources, ensuring it is clean, organized, and ready for analysis.
+# Data Extraction and Manipulation (SQL):
+
+- Purpose: SQL scripts are used to extract, transform, and load data into a structured format that can be utilized by the Power BI dashboard. These scripts handle data from various sources, ensuring it is clean, organized, and ready for analysis.
 Raw Data Management (Excel):
 
-Purpose: Excel is used to store raw data, including trip details, fare information, and location-specific metrics. This data acts as a foundational layer for the analysis and visualization processes.
-Contents:
-Detailed trip records
-Fare breakdowns
-Search and quote data
-Location-based metrics
+- Purpose: Excel is used to store raw data, including trip details, fare information, and location-specific metrics. This data acts as a foundational layer for the analysis and visualization processes.
+
+- Contents:
+  - Detailed trip records
+  - Fare breakdowns
+  - Search and quote data
+  - Location-based metrics
