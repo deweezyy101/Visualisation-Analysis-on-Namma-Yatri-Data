@@ -8,12 +8,12 @@ Namma Yatri is a community initiative aimed at providing a seamless auto and cab
 1. Data Visualization (Power BI):
 
 - Purpose: The data dashboard is designed to give an at-a-glance view of crucial metrics, including the number of completed trips, search activities, fare estimates, driver earnings, and conversion rates.
--Visuals:
- +Trips vs Duration: Visualizes the relationship between the number of trips and their duration.
- +Fare vs Duration: Shows how the fare correlates with trip duration.
- +Distance vs Duration: Displays the relationship between distance traveled and trip duration.
- +Trip Fare by Location: Compares total fare earnings across different locations.
- +Data Extraction and Manipulation (SQL):
+- Visuals:
+ + Trips vs Duration: Visualizes the relationship between the number of trips and their duration.
+ + Fare vs Duration: Shows how the fare correlates with trip duration.
+ + Distance vs Duration: Displays the relationship between distance traveled and trip duration.
+ + Trip Fare by Location: Compares total fare earnings across different locations.
+ + Data Extraction and Manipulation (SQL):
 
 Purpose: SQL scripts are used to extract, transform, and load data into a structured format that can be utilized by the Power BI dashboard. These scripts handle data from various sources, ensuring it is clean, organized, and ready for analysis.
 Raw Data Management (Excel):
